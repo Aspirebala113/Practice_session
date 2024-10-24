@@ -7,3 +7,7 @@ echo "entered name is $a"
 else
 echo "entered name is not $a"
 date
+cal 2024 
+df -h
+free -m 
+
