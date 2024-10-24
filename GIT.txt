@@ -1,0 +1,28 @@
+vcs/scm 
+
+VCS- version control system  // version of the code eg (Windows 7/8/10/11)
+SCM - Source Code Managemnet // instant of storing the code in one of the tool (vcs/scm) 
+
+				VCS - versions
+	1.LVCS - Local Vesrion Control system // like local laptop if it corrupted wil not recover the data 
+	2.CVCS - Centralized Version control system //  tool that helps teams manage code changes and collaborate on software development in centralized server. single point of failur
+	3.DVCS - Distributed version control system //  having the data copy in local system and centralized server also (clone of the data)
+
+				SCM - tools
+	1.git 
+	2.visual studio code 
+	3.bitbunket 
+	4.gitlab
+
+=======================================================================================
+
+						GIT
+					
+GIT - DVCS system, introduced in 2005
+Featues == Distributed, compatible, non-liner,CLI&GUI, Branching,Lightweight,speed,opensource,reliable,secure, 
+======================================================================================================
+
+git commit -a -m "Commit Message"    (-a Git add) only used for modified file -- we can't use in untracked files.
+git log (commit logs in FIFO)
+
+
